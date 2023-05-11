@@ -3,6 +3,8 @@ A collection of Arduino piezo songs for general use.
 
 Songs are converted from a MIDI file format, music will most likely not have a great fidelity!
 
+Also see here for more Arduino songs, great respository: https://github.com/robsoncouto/arduino-songs
+
 # Modifying Script
 
 Some music tracks may not be tuned correctly due to platforms being changed, or simply incorrect tuning. They are all set to "0.7".
