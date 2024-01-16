@@ -1,4 +1,4 @@
-# Arduino_Songs
+# Embedded Music
 A collection of 8 bit piezo music for general use.
 
 Songs are converted from a MIDI file format, music will most likely not have a great fidelity!
